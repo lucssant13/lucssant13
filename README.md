@@ -7,6 +7,5 @@ Meu nome é Lucas Santos
 
 -Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-### Você pode entrar em contato comigo :mailbox
-
+### Você pode entrar em contato comigo :
 lucapinho506@gmail.com
